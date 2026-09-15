@@ -43,4 +43,4 @@ URL with a new effective date.
 ## Contact
 
 Questions? Open an issue at
-https://github.com/GuneshRaj/markdownviewer/issues
+https://github.com/GuneshRaj/markdownviewer-support/issues
